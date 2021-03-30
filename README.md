@@ -12,7 +12,35 @@
   如果你也有和我相同的需求的话，欢迎下载并使用！
   效果如下图：
   ![baidu-search.jpg](https://ftp.bmp.ovh/imgs/2021/03/cc3c78dde6ef4c36.jpg)
-  
-  Telegram频道：https://t.me/SPhardChannel
-  
-  Telegram交流群: https://t.me/sphard
+
+SPhard官网: https://sphard.com
+
+Telegram频道：https://t.me/SPhardChannel
+
+Telegram交流群: https://t.me/sphard
+
+YouTube: https://www.youtube.com/sphard
+
+Bilibili: https://space.bilibili.com/22768487
+
+西瓜视频: https://www.ixigua.com/home/2365790367018135
+
+Twitter: https://twitter.com/darrenliuwei
+
+Vultr 云服务器优惠购买链接(赠送100美元):   https://www.vultr.com/?ref=8371895-6G
+
+腾讯云服务器优惠购买链接：https://curl.qcloud.com/yNG37QVn
+
+俄罗斯服务器(便宜5%)：https://justhost.ru/?ref=37054
+
+俄罗斯服务器(优惠码cheap30)：https://ruvds.com/en-rub/pr5465
+
+美国VPS优惠链接：https://my.losangelesvps.com/aff.php?aff=377
+
+免费SSR/V2ray:  https://free.darrenliuwei.com
+
+机场推荐(只提供ss):  https://justmysocks3.net/members/aff.php?aff=5504
+
+打开支付宝首页搜“527277215”领红包
+
+科学上网教程：https://sphard.com/ebooks/kxsw
