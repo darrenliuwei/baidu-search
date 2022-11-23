@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "百度一下",
   "description": "百度一下，百度快捷搜索",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": {
     "16": "images/icon.png",
     "48": "images/icon.png",
