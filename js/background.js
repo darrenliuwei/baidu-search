@@ -3,6 +3,6 @@ chrome.contextMenus.create({
   title: '百度一下',
   contexts: ['selection'],
   onclick: (info) => {
-    window.open('https://www.baidu.com/s?wd=' + info.selectionText)
+    window.open('https://www.baidu.com/s?wd=' + info.selectionText.replaceAll('&', '%26'))
   },
 })
