@@ -9,9 +9,7 @@
     "128": "images/icon.png"
   },
   "background": {
-    "scripts": [
-      "js/background.js"
-    ]
+    "service_worker": "js/background.js"
   },
   "permissions": [
     "contextMenus"
