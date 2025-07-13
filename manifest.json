@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "百度一下",
   "description": "百度一下，百度快捷搜索",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "icons": {
     "16": "images/icon.png",
     "48": "images/icon.png",
@@ -13,5 +13,6 @@
   },
   "permissions": [
     "contextMenus"
-  ]
+  ],
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAijbQivI1paeAYTIDJNm7cR/9ItUsbJ4VoPrdhrZvLBVwh3BTKLpeo3x9AbCiFk/T9jnH0nfkBhA2n0Q0E3lme6iCw50f5K9Fyqpp43icldzurA+3y01sP8e+Ensefxu44Xdwqp17ah8ydbhJrLhQoHJAJESk3zuLIgqDA7g/Yw/jZIC27FiJKea8u9SiSGIh8ifPSCJcGLD0KjluKVHeJ27azI++kCmsc/uELYIMtgKpfQeTjcid810Ja0q6tqQ3xHq1WSzS5IFWW055QOgldqt7C47okCKvXP4IwweE1lIKmugM8lIitH7CZd/4liM7QTGPAqkMF2mgSM2/NkVwkQIDAQAB"
 }
